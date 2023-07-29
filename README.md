@@ -10,6 +10,4 @@ bounding boxes around snake regions. Next, a feature extraction process utilizes
 convolutional neural networks (CNNs) to extract high-level representations from the images.
 The CNN model used for feature extraction is pre-trained on a large-scale dataset to learn
 generic visual features, followed by fine-tuning on the specific snake dataset to adapt to
-snakespecific characteristics.
-
-In this repo I attached the document related to the project
+snakespecific characteristics.Here in this repo I attached the document related to the project.
