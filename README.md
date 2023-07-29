@@ -1,4 +1,4 @@
-# Mini-Project-1
+# Mini-Project-2
 
 Snake encounters pose significant risks to both human populations and biodiversity.
 Developing an automated system to detect snakes in their natural habitats can greatly aid in
